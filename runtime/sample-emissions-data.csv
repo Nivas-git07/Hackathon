@@ -1,0 +1,9 @@
+date,facility,stream,quantity,unit
+2026-08-01,Chennai Assembly Plant,electricity,985400,kWh
+2026-08-01,Chennai Assembly Plant,fuel,8420,litre
+2026-08-01,Chennai Assembly Plant,water,4.1,ML
+2026-08-01,Chennai Assembly Plant,waste,23800,kg
+2026-08-01,Hosur Manufacturing Plant,electricity,812600,kWh
+2026-08-01,Hosur Manufacturing Plant,fuel,6910,litre
+2026-08-01,Hosur Manufacturing Plant,water,3.6,ML
+2026-08-01,Hosur Manufacturing Plant,waste,19400,kg

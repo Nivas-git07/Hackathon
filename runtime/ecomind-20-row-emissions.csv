@@ -1,0 +1,21 @@
+date,facility,stream,quantity,unit
+2026-01-01,Chennai Assembly Plant,electricity,985400,kWh
+2026-01-01,Chennai Assembly Plant,fuel,8420,litre
+2026-01-01,Chennai Assembly Plant,water,4.10,ML
+2026-01-01,Chennai Assembly Plant,waste,23800,kg
+2026-01-01,Hosur Manufacturing Plant,electricity,812600,kWh
+2026-01-01,Hosur Manufacturing Plant,fuel,6910,litre
+2026-01-01,Hosur Manufacturing Plant,water,3.60,ML
+2026-01-01,Hosur Manufacturing Plant,waste,19400,kg
+2026-01-01,Bengaluru Distribution Centre,electricity,284300,kWh
+2026-01-01,Bengaluru Distribution Centre,fuel,12400,litre
+2026-02-01,Chennai Assembly Plant,electricity,942600,kWh
+2026-02-01,Chennai Assembly Plant,fuel,8010,litre
+2026-02-01,Chennai Assembly Plant,water,4.00,ML
+2026-02-01,Chennai Assembly Plant,waste,22600,kg
+2026-02-01,Hosur Manufacturing Plant,electricity,790400,kWh
+2026-02-01,Hosur Manufacturing Plant,fuel,6650,litre
+2026-02-01,Hosur Manufacturing Plant,water,3.48,ML
+2026-02-01,Hosur Manufacturing Plant,waste,18800,kg
+2026-02-01,Bengaluru Distribution Centre,electricity,276100,kWh
+2026-02-01,Bengaluru Distribution Centre,fuel,11980,litre
