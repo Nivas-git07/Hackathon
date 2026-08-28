@@ -4,6 +4,9 @@ node_modules/
 **/.env
 dist/
 **/dist/
+.npm-cache/
+**/.npm-cache/
+*.tsbuildinfo
 __pycache__/
 **/__pycache__/
 *.pyc
